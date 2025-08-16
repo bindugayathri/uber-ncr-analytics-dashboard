@@ -19,6 +19,14 @@ The final output is a complete, interactive dashboard built in Tableau, designed
 
 ---
 
+## Data Source
+
+The dataset for this project was sourced from Kaggle. It contains over 100,000 anonymized ride bookings from the Delhi NCR region.
+
+**Link to Dataset:** [Uber Ride Analytics Dashboard on Kaggle](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
+
+---
+
 ## Technical Workflow
 
 ### 1. Data Cleaning (Python)
